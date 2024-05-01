@@ -12,5 +12,5 @@ The concept of the who the episode was written by relating to Criminal Minds was
 
 The concept of the characters motive was operationalized by watching the 30 selected episodes and determining why the perpetrator did what they did. There were numerous motives for different episodes but a few to mention were Delusional, Obessession, Cult, and more. For this variable the motives were taken into consideration when being operationalized. 
 
-The concept of level of gruesomeness in a episode was operationalized through a quantitative variable where episodes were measured based on how gruesome it is on a scale from 1-5. Least gruesome episode would fall on the lower side of this scale and vice-versa. To measure this concept, a persons discretion would be used in order to decide the level of gruesomeness. 
+The concept of level of gruesomeness in a episode was operationalized through a quantitative variable where episodes were measured based on how gruesome it is on a scale from 1-5. Least gruesome episode would fall on the lower side of this scale and vice-versa. To measure this concept, a persons discretion would be used in order to decide the level of gruesomeness.
 
